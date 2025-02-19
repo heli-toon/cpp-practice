@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
+
 int main() {
     cout << "Hello World!";
-    cout << "My name is Salay Abdul Muhaimin Kanton";
+    char c = 'A';
+    char ary[] = "Welcome"; // String Array
     return 0;
 }
